@@ -72,11 +72,13 @@ regressor__colsample_bytree-ეუბნება ცვლადების �
 მოდელის RMSE:0.1408
 
 # MLflow Tracking
-Linear regression- 
-Ridge Regression-
-Random Forest-
-Gradient Boosting-
-XGBoost-
+Linear regression- https://dagshub.com/alaki22/alaki22-hw01.mlflow/#/experiments/0/runs/9a17df193c434b3babae1f8497aeb123
+Ridge Regression- https://dagshub.com/alaki22/alaki22-hw01.mlflow/#/experiments/0/runs/bce56c2e3c4c4288ac481fd0ad66d9dd
+Random Forest- https://dagshub.com/alaki22/alaki22-hw01.mlflow/#/experiments/0/runs/ca6d062d6ead42fca5c33780f1a0a8f5
+Gradient Boosting- https://dagshub.com/alaki22/alaki22-hw01.mlflow/#/experiments/0/runs/b1b5e5103e4440d39cd8ccec58e2312b
+XGBoost- https://dagshub.com/alaki22/alaki22-hw01.mlflow/#/experiments/0/runs/70cce9166c774e7ca9120fba5cb5246e
+
+Model Metrics: log RMSE
 Gradient Boosting და XGBoost  ორივე თითქმის ერთნაირად კარგად მუშაობს, თუმცა  Gradient Boosting ცოტათი ჯობია.
 საუკეთესო მოდელის შედეგები:   test_log_rmse = 0.14038382846016093
                                submission result = 0.13656
